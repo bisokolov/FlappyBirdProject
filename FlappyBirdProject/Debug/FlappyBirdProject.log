@@ -1,0 +1,4 @@
+﻿  agent.cpp
+f:\develop\flappybirdproject\flappybirdproject\agent.cpp(44): warning C4018: '<': signed/unsigned mismatch
+f:\develop\flappybirdproject\flappybirdproject\agent.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  FlappyBirdProject.vcxproj -> F:\develop\FlappyBirdProject\Debug\FlappyBirdProject.exe
